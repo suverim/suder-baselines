@@ -1,0 +1,4 @@
+DIR=`pwd`/..
+
+DDIR=$DIR/data
+BDIR=$DIR/bin
