@@ -298,7 +298,7 @@ class MeanEmbeddingNetwork(nn.Module):
             loss.backward()
 
             if (self.step_now+1) % update_step == 0:
-                print('Iter: %i, Updating parameters' % (self.step_now + 1), flush=True)
+                #print('Iter: %i, Updating parameters' % (self.step_now + 1), flush=True)
                 self.optimizer.step()
                 self.optimizer.zero_grad()
 
