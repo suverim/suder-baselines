@@ -1,4 +1,4 @@
-# SuDer-v1-baselines
+# SuDer baselines
 
 Baseline models for [suder corpus](https://github.com/suverim/suder-v1.0)
 
