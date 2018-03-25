@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MorphZemberek:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MorphZemberek_jar</output-path>
+    <root id="archive" name="MorphZemberek.jar">
+      <element id="module-output" name="MorphZemberek" />
+      <element id="extracted-dir" path="$USER_HOME$/prog/zemberek-0.11.1/zemberek-all-0.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/prog/zemberek-0.11.1/dependencies/antlr4-runtime-4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/prog/zemberek-0.11.1/dependencies/guava-21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/prog/zemberek-0.11.1/dependencies/args4j-2.0.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/prog/zemberek-0.11.1/module-jars/morphology-0.11.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
